@@ -1,0 +1,17 @@
+html {
+    padding: 15px 200px;
+}
+
+.header {
+    display: flex;
+}
+
+.header div {
+    flex: 1 1 auto;
+}
+
+.header-links {
+    display: flex;
+    justify-content: right;
+    gap: 10px;
+}
