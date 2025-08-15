@@ -86,3 +86,21 @@ img {
     color: #1f2937;
     margin: 28px;
 }
+
+.information-cubes {
+    display: flex;
+    padding: 0px 200px;
+}
+
+.flex-image {
+    max-width: 140px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 15px;
+}
+
+.flex-text {
+    padding: 25px;
+    font-size: 18px;
+}
