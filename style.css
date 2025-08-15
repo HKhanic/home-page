@@ -26,10 +26,54 @@ body {
 
 .header-logo {
     font-weight: 700;
-    font-size: 26px;
+    font-size: 24px;
+}
+
+.secondary-text {
+    color: #e5e7eb;
+    font-size: 18px;
 }
 
 .header-links a {
     text-decoration: none;
-    color: #e5e7eb;
+}
+
+img {
+    max-width: 460px;
+}
+
+.content1 {
+    display: flex;
+    max-height: 600px;
+    padding: 75px 200px;
+    align-items: center;
+    background-color: #1f2937;
+    color: white;
+}
+
+.content1 div {
+    flex: 1 1 auto;
+}
+
+.website {
+    display: flex;
+    flex-direction: column;
+    padding-right: 175px;
+}
+
+.website-main {
+    font-size: 48px;
+    font-weight: 800;
+}
+
+.website-button {
+    background-color: #3882f6;
+    flex: 0 0 auto;
+    max-width: fit-content;
+    padding: 6px 30px;
+    border: none;
+    text-align: center;
+    border-radius: 7px;
+    font-size: 15px;
+    margin-top: 14px;
 }
