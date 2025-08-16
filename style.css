@@ -102,6 +102,10 @@ img {
     margin-bottom: 15px;
 }
 
+.flex-cube {
+    flex: 1 1 0px;
+}
+
 .flex-text {
     padding: 25px;
     font-size: 18px;
