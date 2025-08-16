@@ -58,12 +58,13 @@ img {
 .website {
     display: flex;
     flex-direction: column;
-    padding-right: 175px;
+    padding-right: 150px;
 }
 
 .website-main {
     font-size: 48px;
     font-weight: 800;
+    margin-bottom: 12px;
 }
 
 .website-button {
@@ -77,6 +78,7 @@ img {
     font-size: 16px;
     margin-top: 14px;
     font-weight: 600;
+    text-decoration: none;
 }
 
 .information {
