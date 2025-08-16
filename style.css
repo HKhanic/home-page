@@ -89,7 +89,7 @@ img {
 
 .information-cubes {
     display: flex;
-    padding: 0px 200px;
+    padding: 15px 230px;
 }
 
 .flex-image {
@@ -106,11 +106,16 @@ img {
 }
 
 .quote {
-    display: flex;
-    padding: 100px 200px;
+    padding: 100px 330px;
     margin: 100px 0px;
     background-color: #E5E7EB;
     font-size: 36px;
     color: #1f2937;
-    
+    font-style: italic;
+}
+
+.quote-author {
+    font-weight: 900;
+    font-size: 26px;
+    text-align: right;
 }
