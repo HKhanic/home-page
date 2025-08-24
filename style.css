@@ -95,7 +95,7 @@ body {
 
 .information-cubes {
     display: flex;
-    padding: 15px 230px;
+    padding: 1% 15%;
 }
 
 .flex-image {
