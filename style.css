@@ -116,7 +116,7 @@ body {
 }
 
 .quote {
-    padding: 100px 330px;
+    padding: 6% 15%;
     margin: 100px 0px;
     background-color: #E5E7EB;
     font-size: 36px;
@@ -125,6 +125,7 @@ body {
 }
 
 .quote-author {
+    padding-top: 1%;
     font-weight: 900;
     font-size: 26px;
     text-align: right;
