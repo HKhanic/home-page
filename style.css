@@ -9,7 +9,7 @@ body {
 .header {
     display: flex;
     background-color: #1f2937;
-    padding: 15px 200px;
+    padding: 1% 12%;
 }
 
 .header div {
